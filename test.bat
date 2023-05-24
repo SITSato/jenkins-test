@@ -1,2 +1,2 @@
-@echo off
-echo hello world
+pwd
+echo 'hello world'>>hello.txt
